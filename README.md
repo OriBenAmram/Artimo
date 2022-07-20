@@ -8,4 +8,4 @@ The ***technologies*** that we'll use are
 - Canvas
 - E2E (with Node.js & MongoDB) 
 - WebSockets
-
+- Tests 
