@@ -13,7 +13,7 @@ export function RootCmp() {
       <main>
         <Routes>
           {routes.map(route => (
-            <Route key={route.path} element={<route.element />} path={route.path}/>
+            <Route key={route.path} element={route.element} path={route.path}/>
           ))}
         </Routes>
       </main>
